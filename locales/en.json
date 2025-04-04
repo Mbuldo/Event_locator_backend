@@ -1,0 +1,12 @@
+{
+    "welcome": "Welcome to Event Locator!",
+    "error": "An error occurred.",
+    "event_not_found": "Event not found.",
+    "login_success": "Successfully logged in.",
+    "signup_success": "Signup completed successfully.",
+    "event_created": "Event created successfully.",
+    "event_deleted": "Event deleted successfully.",
+    "unauthorized": "Unauthorized access.",
+    "not_authenticated": "Please login to continue."
+  }
+  

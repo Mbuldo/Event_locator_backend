@@ -1,0 +1,12 @@
+{
+    "welcome": "Bienvenue sur Event Locator!",
+    "error": "Une erreur s'est produite.",
+    "event_not_found": "Événement non trouvé.",
+    "login_success": "Connexion réussie.",
+    "signup_success": "Inscription réussie.",
+    "event_created": "Événement créé avec succès.",
+    "event_deleted": "Événement supprimé avec succès.",
+    "unauthorized": "Accès non autorisé.",
+    "not_authenticated": "Veuillez vous connecter pour continuer."
+  }
+  
