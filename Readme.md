@@ -1,5 +1,5 @@
 # Event Locator Backend
-
+-
 Backend API for managing events and users. Built with Node.js, PostgreSQL, and Sequelize.
 
 ## Technologies Used
@@ -33,3 +33,28 @@ npx sequelize-cli db:seed:all
 
 # Start development server
 npm run dev
+
+Testing API Endpoints (Manually)
+You can use Postman or curl to test.
+
+#Auth
+
+POST /auth/register
+POST /auth/login
+
+#Events
+
+GET /events
+POST /events
+
+#Users
+
+GET /users/profile   
+
+#Notifications
+
+POST /notifications/send
+
+#Seeding the DB
+
+npx sequelize-cli db:seed:all
